@@ -36,16 +36,18 @@
 
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+ <br/> 
  
 ### Other Knowledge:
 
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Cisco-Packet-Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0D1117?style=for-the-badge&logo=Cisco-Packet-Tracer&labelColor=0D1117)&nbsp;
 
 
 
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
+  <br/> 
   
 ### Studying in this moment:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -62,9 +64,15 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=elvis28miranda&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+<br/> 
+<br/> 
+
 <div align="center">  
 <a href="https://www.instagram.com/elvismiranda_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/elvis-miranda-a6728214a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%234682B4?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
 </div> 
+ 
   
 <br/> 
 <br/> 
@@ -72,7 +80,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ElvisMiranda}/count.svg" /></p> 
+
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{elvis28miranda}/count.svg" /></p> 
 <br></div>
   
