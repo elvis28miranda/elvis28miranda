@@ -50,6 +50,7 @@
 ### Other Knowledge:
 
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![asp.net](https://img.shields.io/badge/-asp.net-0D1117?style=for-the-badge&logo=asp.net&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Cisco-Packet-Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0D1117?style=for-the-badge&logo=Cisco-Packet-Tracer&labelColor=0D1117)&nbsp;
 
