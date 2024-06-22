@@ -81,6 +81,9 @@
 <a href="https://www.instagram.com/elvismiranda_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href="https://www.linkedin.com/in/elvis-miranda-a6728214a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%234682B4?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
     <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23FF4500?style=for-the-badge&logo=Gmail&logoColor=white"</a>    
+    <a href="https://github.com/elvis28miranda?tab=followers" target="_blank"><img src="ttps://img.shields.io/github/followers/elvis28miranda?style=for-the-badge&logo=followers&logoColor=white"</a>   
+
+    
 
 </div> 
  
