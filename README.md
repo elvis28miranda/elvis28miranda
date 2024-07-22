@@ -68,7 +68,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;<br/> 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;<br/> 
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;<br/> 
-
 ![postgresql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;<br/> 
 ![Redes](https://img.shields.io/badge/-Redes-0D1117?style=for-the-badge&logo=Redes&labelColor=0D1117&textColor=0D1117)&nbsp; <br/> 
 ![AmazonWebService](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=AWS&labelColor=0D1117&textColor=0D1117)&nbsp;<br/> 
@@ -84,10 +83,10 @@
 <br/> 
 
 <div align="center">  
-<a href="https://www.instagram.com/elvismiranda_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a><br/> 
-  <a href="https://www.linkedin.com/in/elvis-miranda-a6728214a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%234682B4?style=for-the-badge&logo=Linkedin&logoColor=white"</a><br/> 
-    <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23FF4500?style=for-the-badge&logo=Gmail&logoColor=white"</a>    <br/> 
-    <a href="https://github.com/elvis28miranda?tab=followers" target="_blank"><img src="ttps://img.shields.io/github/followers/elvis28miranda?style=for-the-badge&logo=followers&logoColor=white"</a>   <br/> 
+<a href="https://www.instagram.com/elvismiranda_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/elvis-miranda-a6728214a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%234682B4?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
+    <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23FF4500?style=for-the-badge&logo=Gmail&logoColor=white"</a>   
+    <a href="https://github.com/elvis28miranda?tab=followers" target="_blank"><img src="ttps://img.shields.io/github/followers/elvis28miranda?style=for-the-badge&logo=followers&logoColor=white"</a>  
 
     
 
