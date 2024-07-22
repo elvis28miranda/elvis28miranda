@@ -17,12 +17,14 @@
 <br/> 
 
   ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&labelColor=0D1117)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=Firebase&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=Canva&labelColor=0D1117)&nbsp;
-![EndPointSecurity](https://img.shields.io/badge/-EndPoint%20Security-0D1117?style=for-the-badge&logo=EndPointSecurity&labelColor=0D1117)&nbsp;
+
+
 
   
 <br/> 
@@ -41,6 +43,8 @@
 ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-0D1117?style=for-the-badge&logo=CodeBlocks&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![brModelo](https://img.shields.io/badge/-brModelo-0D1117?style=for-the-badge&logo=brModelo&logoColor=90ee90&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=Canva&labelColor=0D1117)&nbsp;
 
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
@@ -53,6 +57,7 @@
 ![asp.net](https://img.shields.io/badge/-asp.net-0D1117?style=for-the-badge&logo=asp.net&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Cisco-Packet-Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0D1117?style=for-the-badge&logo=Cisco-Packet-Tracer&labelColor=0D1117)&nbsp;
+![EndPointSecurity](https://img.shields.io/badge/-EndPoint%20Security-0D1117?style=for-the-badge&logo=EndPointSecurity&labelColor=0D1117)&nbsp;
 
 
 
@@ -61,7 +66,7 @@
 ### Studying in this moment:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![AmazonWebService](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=AWS&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![postgresql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
