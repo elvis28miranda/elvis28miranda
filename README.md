@@ -20,9 +20,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;<br/> 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;<br/> 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;<br/> 
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&labelColor=0D1117)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=Firebase&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=0D1117)&nbsp;<br/> 
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&labelColor=0D1117)&nbsp;<br/> 
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=Firebase&labelColor=0D1117)&nbsp;<br/> 
 
 
 
@@ -37,40 +37,40 @@
 <br/> 
 
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Android-Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=Android-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-0D1117?style=for-the-badge&logo=CodeBlocks&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![brModelo](https://img.shields.io/badge/-brModelo-0D1117?style=for-the-badge&logo=brModelo&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=Canva&labelColor=0D1117)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;<br/> 
+![Android-Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=Android-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;<br/> 
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;<br/> 
+![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-0D1117?style=for-the-badge&logo=CodeBlocks&logoColor=0D1117&labelColor=0D1117)&nbsp;<br/> 
+![brModelo](https://img.shields.io/badge/-brModelo-0D1117?style=for-the-badge&logo=brModelo&logoColor=90ee90&labelColor=0D1117)&nbsp;<br/> 
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;<br/> 
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;<br/> 
+![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=Canva&labelColor=0D1117)&nbsp;<br/> 
 
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;<br/> 
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;<br/> 
 
  <br/> 
  
 ### Other Knowledge:
 
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![asp.net](https://img.shields.io/badge/-asp.net-0D1117?style=for-the-badge&logo=asp.net&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Cisco-Packet-Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0D1117?style=for-the-badge&logo=Cisco-Packet-Tracer&labelColor=0D1117)&nbsp;
-![EndPointSecurity](https://img.shields.io/badge/-EndPoint%20Security-0D1117?style=for-the-badge&logo=EndPointSecurity&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; <br/> 
+![asp.net](https://img.shields.io/badge/-asp.net-0D1117?style=for-the-badge&logo=asp.net&logoColor=purple&labelColor=0D1117)&nbsp; <br/> 
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=purple&labelColor=0D1117)&nbsp; <br/> 
+![Cisco-Packet-Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0D1117?style=for-the-badge&logo=Cisco-Packet-Tracer&labelColor=0D1117)&nbsp;<br/> 
+![EndPointSecurity](https://img.shields.io/badge/-EndPoint%20Security-0D1117?style=for-the-badge&logo=EndPointSecurity&labelColor=0D1117)&nbsp;<br/> 
 
 
 
   <br/> 
   
 ### Studying in this moment:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![AmazonWebService](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=AWS&labelColor=0D1117&textColor=0D1117)&nbsp;
-![postgresql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![Redes](https://img.shields.io/badge/-Redes-0D1117?style=for-the-badge&logo=Redes&labelColor=0D1117&textColor=0D1117)&nbsp; 
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;<br/> 
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;<br/> 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;<br/> 
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;<br/> 
+![AmazonWebService](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=AWS&labelColor=0D1117&textColor=0D1117)&nbsp;<br/> 
+![postgresql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;<br/> 
+![Redes](https://img.shields.io/badge/-Redes-0D1117?style=for-the-badge&logo=Redes&labelColor=0D1117&textColor=0D1117)&nbsp; <br/> 
 
 <br/> 
 <br/> 
@@ -83,10 +83,10 @@
 <br/> 
 
 <div align="center">  
-<a href="https://www.instagram.com/elvismiranda_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href="https://www.linkedin.com/in/elvis-miranda-a6728214a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%234682B4?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
-    <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23FF4500?style=for-the-badge&logo=Gmail&logoColor=white"</a>    
-    <a href="https://github.com/elvis28miranda?tab=followers" target="_blank"><img src="ttps://img.shields.io/github/followers/elvis28miranda?style=for-the-badge&logo=followers&logoColor=white"</a>   
+<a href="https://www.instagram.com/elvismiranda_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a><br/> 
+  <a href="https://www.linkedin.com/in/elvis-miranda-a6728214a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%234682B4?style=for-the-badge&logo=Linkedin&logoColor=white"</a><br/> 
+    <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23FF4500?style=for-the-badge&logo=Gmail&logoColor=white"</a>    <br/> 
+    <a href="https://github.com/elvis28miranda?tab=followers" target="_blank"><img src="ttps://img.shields.io/github/followers/elvis28miranda?style=for-the-badge&logo=followers&logoColor=white"</a>   <br/> 
 
     
 
