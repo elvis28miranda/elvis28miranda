@@ -37,7 +37,7 @@
 <br/> 
 
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;<br/> 
+
 ![Android-Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=Android-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;<br/> 
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;<br/> 
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;<br/> 
@@ -47,6 +47,7 @@
 ![brModelo](https://img.shields.io/badge/-brModelo-0D1117?style=for-the-badge&logo=brModelo&logoColor=90ee90&labelColor=0D1117)&nbsp;<br/> 
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;<br/> 
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;<br/> 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;<br/> 
 
  <br/> 
  
