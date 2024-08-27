@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2691E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elvis+Miranda;I'm+27+years+old;I+am+from+Americana,+SP;I+study+analysis+and+systems+development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&bg_color=0d1117&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elvis+Miranda;I'm+27+years+old;I+am+from+Americana,+SP;I+study+analysis+and+systems+development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elvis28miranda&show_icons=true&count_private=true&hide_border=true&title_color=B8860B&icon_color=B8860B&text_color=F0E68C&bg_color=0d1117" alt=" Elvis Miranda github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elvis28miranda&show_icons=true&count_private=true&hide_border=true&title_color=FF8C00&icon_color=FFA500&text_color=FFA500&bg_color=0d1117" alt=" Elvis Miranda github stats" /> 
   
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis28Miranda&layout=compact&hide_border=true&title_color=B8860B&text_color=F0E68C&bg_color=0d1117" />
