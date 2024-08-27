@@ -44,21 +44,21 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; 
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=Canva&labelColor=0D1117)&nbsp; 
-![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-0D1117?style=for-the-badge&logo=CodeBlocks&logoColor=0D1117&labelColor=0D1117)&nbsp;<br/> 
-![brModelo](https://img.shields.io/badge/-brModelo-0D1117?style=for-the-badge&logo=brModelo&logoColor=90ee90&labelColor=0D1117)&nbsp;<br/> 
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;<br/> 
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;<br/> 
+![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=Canva&labelColor=0D1117)&nbsp; <br/> 
+![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-0D1117?style=for-the-badge&logo=CodeBlocks&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![brModelo](https://img.shields.io/badge/-brModelo-0D1117?style=for-the-badge&logo=brModelo&logoColor=90ee90&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;<br/> 
 
  <br/> 
  
 ### Other Knowledge:
 
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=purple&labelColor=0D1117)&nbsp; <br/>
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; <br/> 
-![asp.net](https://img.shields.io/badge/-asp.net-0D1117?style=for-the-badge&logo=asp.net&logoColor=purple&labelColor=0D1117)&nbsp; <br/> 
-![Cisco-Packet-Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0D1117?style=for-the-badge&logo=Cisco-Packet-Tracer&labelColor=0D1117)&nbsp;<br/> 
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=purple&labelColor=0D1117)&nbsp; <br/> 
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![asp.net](https://img.shields.io/badge/-asp.net-0D1117?style=for-the-badge&logo=asp.net&logoColor=purple&labelColor=0D1117)&nbsp;  
+![Cisco-Packet-Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0D1117?style=for-the-badge&logo=Cisco-Packet-Tracer&labelColor=0D1117)&nbsp;
 ![EndPointSecurity](https://img.shields.io/badge/-EndPoint%20Security-0D1117?style=for-the-badge&logo=EndPointSecurity&labelColor=0D1117)&nbsp;<br/> 
 
 
