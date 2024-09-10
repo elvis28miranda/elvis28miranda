@@ -2,7 +2,17 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&bg_color=0d1117&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elvis+Miranda;I'm+27+years+old;I+am+from+Americana,+SP;I+study+analysis+and+systems+development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<br/>
+<div align="center">  
+<a href="https://www.instagram.com/elvismiranda_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/elvis-miranda-a6728214a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%234682B4?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
+    <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23FF4500?style=for-the-badge&logo=Gmail&logoColor=white"</a>   
+    <a href="https://github.com/elvis28miranda?tab=followers" target="_blank"><img src="ttps://img.shields.io/github/followers/elvis28miranda?style=for-the-badge&logo=followers&logoColor=white"</a>  
 
+    
+
+</div> 
+ 
 <div align="center"> 
  
   <img width="60%" height="400px" src="https://github-readme-stats.vercel.app/api?username=elvis28miranda&show_icons=true&count_private=true&hide_border=true&title_color=FF8C00&icon_color=FFA500&text_color=FFA500&bg_color=0d1117" alt=" Elvis Miranda github stats" /> 
@@ -79,16 +89,6 @@
 <br/> 
 <br/> 
 
-<div align="center">  
-<a href="https://www.instagram.com/elvismiranda_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href="https://www.linkedin.com/in/elvis-miranda-a6728214a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%234682B4?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
-    <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23FF4500?style=for-the-badge&logo=Gmail&logoColor=white"</a>   
-    <a href="https://github.com/elvis28miranda?tab=followers" target="_blank"><img src="ttps://img.shields.io/github/followers/elvis28miranda?style=for-the-badge&logo=followers&logoColor=white"</a>  
-
-    
-
-</div> 
- 
   
 <br/> 
 <br/> 
