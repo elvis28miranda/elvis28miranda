@@ -2,21 +2,16 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&bg_color=0d1117&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elvis+Miranda;I'm+27+years+old;I+am+from+Americana,+SP;I+study+analysis+and+systems+development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
 <div align="center"> 
  
-  
-  <img width="49%" height="400px" src="https://github-readme-stats.vercel.app/api?username=elvis28miranda&show_icons=true&count_private=true&hide_border=true&title_color=FF8C00&icon_color=FFA500&text_color=FFA500&bg_color=0d1117" alt=" Elvis Miranda github stats" /> 
+  <img width="60%" height="400px" src="https://github-readme-stats.vercel.app/api?username=elvis28miranda&show_icons=true&count_private=true&hide_border=true&title_color=FF8C00&icon_color=FFA500&text_color=FFA500&bg_color=0d1117" alt=" Elvis Miranda github stats" /> 
   
 
-  <img width="41%" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis28Miranda&layout=compact&hide_border=true&title_color=B8860B&text_color=F0E68C&bg_color=0d1117" />
+  <img width="60%" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis28Miranda&layout=compact&hide_border=true&title_color=B8860B&text_color=F0E68C&bg_color=0d1117" />
 
-  
 </div>
   
-<br/> 
-<br/> 
-
-
   ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
