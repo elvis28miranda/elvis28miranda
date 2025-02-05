@@ -30,12 +30,7 @@
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=0D1117)&nbsp; 
   
 <br/> 
-<br/> 
 
-![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=elvis28miranda&bg_color=000000&color=F0E68C&line=F0E68C&point=FFA500&area=true&hide_border=true) 
-
-  
-<br/> 
 <br/> 
 
 ### Tools:
@@ -75,6 +70,12 @@
 ![Redes](https://img.shields.io/badge/-Redes-0D1117?style=for-the-badge&logo=Redes&labelColor=0D1117&textColor=0D1117)&nbsp; 
 ![AmazonWebService](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=AWS&labelColor=0D1117&textColor=0D1117)&nbsp;<br/> 
 
+<br/> 
+<br/> 
+
+![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=elvis28miranda&bg_color=000000&color=F0E68C&line=F0E68C&point=FFA500&area=true&hide_border=true) 
+
+  
 <br/> 
 <br/> 
 
