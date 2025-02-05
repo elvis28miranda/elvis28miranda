@@ -9,8 +9,6 @@
     <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23FF4500?style=for-the-badge&logo=Gmail&logoColor=white"</a>   
     <a href="https://github.com/elvis28miranda?tab=followers" target="_blank"><img src="ttps://img.shields.io/github/followers/elvis28miranda?style=for-the-badge&logo=followers&logoColor=white"</a>  
 
-    
-
 </div> 
  
 <div align="center"> 
@@ -24,16 +22,12 @@
   
   ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![PowerBI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=PowerBI&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=0D1117)&nbsp; 
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&labelColor=0D1117)&nbsp; 
-![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=Firebase&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-
-
-
   
 <br/> 
 <br/> 
@@ -60,7 +54,8 @@
  <br/> 
  
 ### Other Knowledge:
-
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&labelColor=0D1117)&nbsp; 
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=Firebase&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=purple&labelColor=0D1117)&nbsp; <br/> 
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![asp.net](https://img.shields.io/badge/-asp.net-0D1117?style=for-the-badge&logo=asp.net&logoColor=purple&labelColor=0D1117)&nbsp;  
